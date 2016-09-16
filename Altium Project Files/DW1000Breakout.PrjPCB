@@ -141,40 +141,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EHGLLDDN
 
 [Document7]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\DWM1000Breakout.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\DWM1000BreakoutGerbers.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=DW1000Breakout.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFLUHHQA
 
-[Document10]
+[Document8]
 DocumentPath=DW1000BreakoutPeripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,46 +174,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJNVXNJQ
 
-[GeneratedDocument1]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GM27
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\2015-08-25\DWM1000Breakout.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -255,7 +181,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
