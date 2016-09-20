@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job Group
+Name=DW1000Breakout.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -89,8 +89,8 @@ PcbPrintPreferences2=
 OutputType3=BOM_PartType
 OutputName3=Bill of Materials
 OutputCategory3=Report
-OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputDocumentPath3=[ActiveBOM Document]
+OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=3
@@ -98,15 +98,25 @@ OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration3_Name1=General
-Configuration3_Item1=TemplateFilename=BOM Default Template.XLT
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=Filter
+Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration3_Name3=General
+Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=BOM Default Template 95.xlt|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD
+Configuration3_Name4=GroupOrder
+Configuration3_Item4=
+Configuration3_Name5=SortOrder
+Configuration3_Item5=
+Configuration3_Name6=VisibleOrder
+Configuration3_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 
 [PublishSettings]
-OutputFilePath2=Z:\DecaWave-DW1000-BBB-Breakout\Altium Project Files\.PDF
+OutputFilePath2=C:\Users\Anh\Documents\GitHub\DecaWave-DW1000-BBB-Breakout\Altium Project Files\.\DW1000Breakout.pdf
 ReleaseManaged2=0
-OutputBasePath2=Z:\DecaWave-DW1000-BBB-Breakout\Altium Project Files\
+OutputBasePath2=.\
 OutputPathMedia2=
-OutputPathMediaValue2=
+OutputPathMediaValue2==CurrentDate
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
@@ -179,7 +189,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Z:\DecaWave-DW1000-BBB-Breakout\Altium Project Files\.PDF
+RelativeOutputPath2=C:\Users\Anh\Documents\GitHub\DecaWave-DW1000-BBB-Breakout\Altium Project Files\.\DW1000Breakout.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
